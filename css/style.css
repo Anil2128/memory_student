@@ -1,0 +1,52 @@
+	#wrapper{
+		
+		width:100%;
+		
+	}
+	
+	
+	#game img{
+		
+		cursor:pointer;
+		padding:5px;
+		width:100px;
+		height:100px;
+		
+	}
+
+	#game{
+		
+		margin-top:25px;
+		width:440px;
+		height:456px;
+		padding:10px;
+		border:solid 10px blue; 
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	#head, #klicks, #zeit{
+		text-align:center;
+		
+	}
+	
+
+	.start-passiv{
+		display:none; 
+		
+	}
+	.start-aktiv{
+		display:block; 
+		cursor:pointer;
+		margin-left:auto;
+		margin-right:auto;
+		width:440px;
+		margin-top:20px;
+	}
+
+	#audio{
+		display:block;
+		margin:auto;
+		cursor:pointer;
+		width:440px;
+	}
